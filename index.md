@@ -1,3 +1,7 @@
+## Experiences
+
+### Northwestern University - AI/ML Research Intern
+
 ## Portfolio
 
 ---
@@ -31,5 +35,5 @@
 
 
 ---
-<p style="font-size:11px">Krish Kankure</p>
+<p style="font-size:11px">Krish Kankure </p>
 <!-- Remove above link if you don't want to attibute -->
