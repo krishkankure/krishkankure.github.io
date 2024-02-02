@@ -1,6 +1,7 @@
 ## Experiences
 
-### Northwestern University - AI/ML Research Intern
+### Northwestern University
+#### AI/ML Research Intern
 
 ## Portfolio
 
