@@ -1,6 +1,6 @@
 ---
 title: "AI/LLM To-Do List Generation"
-excerpt: "To-do list web app with LLM-based capabilities to simplify user task entry.<br/><img src='/images/Portfolio1.png'>"
+excerpt: "To-do list web app with LLM-based capabilities to simplify user task entry.<br/><img src='/images/Portfolio1.png' width='500'>"
 collection: portfolio
 ---
 
