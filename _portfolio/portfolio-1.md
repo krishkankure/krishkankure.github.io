@@ -4,4 +4,5 @@ excerpt: "To-do list web app with LLM-based capabilities to simplify user task e
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Designed to-do list web app with LLM-based capabilities to simplify user task entry.
+- Utilizes Google Gemini Flash 1.5 LLM API alongside prompt-engineering to ensure efficient API usage and minimize API expenses.
