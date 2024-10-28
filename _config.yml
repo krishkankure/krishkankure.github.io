@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Krish Kankure"
 title_separator          : "-"
 name                     : &name "Krish Kankure"
-description              : &description "personal description"
+description              : &description "Software & ML Engineer"
 url                      : https://krishkankure.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "krishkankure/krishkankure.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "BS Math & CS @ UCSD"
   location         : "La Jolla CA / Boston, MA"
-  employer         : "University of California, San Diego"
+  employer         : "UC San Diego"
   uri              : # URL
   email            : "krishkankure6@gmail.com" 
 
@@ -57,9 +57,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : krishkankure
   mastodon         : # URL
-  medium           : # URL
+  medium           : krishkankure
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
