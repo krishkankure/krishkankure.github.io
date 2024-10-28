@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AI/LLM To-Do List Generation"
+excerpt: "To-do list web app with LLM-based capabilities to simplify user task entry.<br/><img src='/images/Portfolio1.png'>"
 collection: portfolio
 ---
 
